@@ -1,4 +1,4 @@
-Personal Project - Developed an AI agent to play Tic-Tac-Toe using the Minimax algorithm for decision-making
+Personal Project - Developed an unbeatable AI agent to play Tic-Tac-Toe optimally using the Minimax algorithm
 
 Technologies Used: Python, Minimax algorithm, Game Theory, Alpha-Beta Pruning
 
